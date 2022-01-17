@@ -14,3 +14,8 @@ int main()
   std::cout << getHwid("baseboard");
 }
 ```
+
+
+# Todo
+
+ - Types
